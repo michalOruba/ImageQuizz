@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageQuizz</string>
+    <string name="title">Sprawdź swoją wiedzę na temat postaci z bajek.</string>
+    <string name="subtitle">Czy znasz je wszystkie?</string>
+    <string name="starting_score">Wynik: 0</string>
+    <string name="starting_question">Pytanie: 1/10</string>
+    <string name="game_end">Koniec gry</string>
+    <string name="score_title">Uzyskany wynik to:</string>
+    <string name="play_again">Zagraj ponownie</string>
+</resources>
